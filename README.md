@@ -57,7 +57,7 @@ nestjs-prisma-crud/
 
 \`\`\`bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nestjs-prisma-crud.git
+git clone https://github.com/cleitonvpinheiro/nestjs-prisma-crud.git
 cd nestjs-prisma-crud
 
 # Instale as dependências
@@ -147,7 +147,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 **Cleiton Pinheiro**  
 Desenvolvedor Fullstack JavaScript  
-[GitHub](https://github.com/cleitonvpinheiro) | [LinkedIn](https://www.linkedin.com/in/cleitonvpinheiro)
+[GitHub](https://github.com/cleitonvpinheiro) | [LinkedIn](https://www.linkedin.com/in/cleiton-vicente-pinheiro)
 
 ---
 
