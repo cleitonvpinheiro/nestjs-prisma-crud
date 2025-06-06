@@ -1,0 +1,28 @@
+{
+  "name": "nestjs-prisma-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/@nestjs/cli/bin/nest.js start",
+    "start:dev": "node node_modules/@nestjs/cli/bin/nest.js start --watch",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "prisma:migrate": "npx prisma migrate dev",
+    "prisma:generate": "npx prisma generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nestjs/cli": "^11.0.7",
+    "prisma": "^6.9.0"
+  },
+  "dependencies": {
+    "@nestjs/config": "^4.0.2",
+    "@nestjs/platform-express": "^11.1.2",
+    "@nestjs/swagger": "^11.2.0",
+    "@prisma/client": "^6.9.0",
+    "nestjs-prisma-crud": "file:",
+    "swagger-ui-express": "^5.0.1"
+  }
+}

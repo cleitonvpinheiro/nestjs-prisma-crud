@@ -1,0 +1,21 @@
+# Node
+node_modules
+dist
+
+# Env
+.env
+.env.*.local
+
+# Prisma
+prisma/dev.db
+prisma/migrations
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode
+.idea
+node_modules
